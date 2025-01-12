@@ -11,7 +11,7 @@ Both the value and type of the parameters need to be equal. The possible types o
 What have you learned so far that will permit you to do two different checks (value and type) with a single statement?
 Implement a function that returns true if the parameters are equal, and false if they are not.
 
-Example Output:
+## Example Output:
 ```
 checkEquality(1, true) ➞ false
 // A number and a boolean: the value and type are different.
