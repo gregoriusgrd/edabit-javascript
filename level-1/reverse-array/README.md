@@ -1,6 +1,5 @@
 # Reverse an Array
-
-## Write a function to reverse an array.
+Write a function to reverse an array.
 
 ## Examples
 ```
